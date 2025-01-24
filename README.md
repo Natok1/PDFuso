@@ -23,3 +23,4 @@ PdfPlumber: Extração de dados de PDFs.
 
 ## Exemplo de Interface
 
+![interface](https://raw.githubusercontent.com/Natok1/PDFuso/refs/heads/main/imagem_2025-01-24_160153272.png)
